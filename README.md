@@ -6,6 +6,7 @@
 - Made using [dome engine](https://domeengine.com)
 - Written in [Wren](http://wren.io)
 - Made by [_discovery](https://twitter.com/___discovery/)
+- Made in ~3 hours
 
 ### Concept
 
