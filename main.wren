@@ -7,7 +7,7 @@ import "random" for Random
 //made for dome jam https://itch.io/jam/domejam
 //made using dome engine https://domeengine.com
 //written in Wren http://wren.io
-//made by _discovery https://twitter.com/___discovery/
+//made by ruby0x1  https://twitter.com/ruby0x1
 
 //Concept
 //The basic concept is to keep the ball moving. Instead of a miss being 
