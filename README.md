@@ -5,7 +5,7 @@
 - Made for [dome jam](https://itch.io/jam/domejam) 
 - Made using [dome engine](https://domeengine.com)
 - Written in [Wren](http://wren.io)
-- Made by [_discovery](https://twitter.com/___discovery/)
+- Made by [ruby0x1](https://twitter.com/ruby0x1)
 - Made in ~3 hours
 
 ### Concept
@@ -23,7 +23,7 @@ faster reflexes and thinking ahead/predicting.
 
 ### Running/Editing the game
 
-- Grab the appropriate release from the [releases](https://github.com/underscorediscovery/dome-pong-flow/releases).
+- Grab the appropriate release from the [releases](https://github.com/ruby0x1/dome-pong-flow/releases).
 - Unzip, and run the dome binary. 
 - Note: Linux/Mac: you may need to make the binary executable 
 
